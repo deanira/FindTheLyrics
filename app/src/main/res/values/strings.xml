@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FindTheLyrics</string>
+    <string name="findthe">FindThe</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="judul_lagu">Judul Lagu</string>
+    <string name="penyanyi">Penyanyi</string>
+    <string name="tahun_rilis">Tahun Rilis</string>
+    <string name="beranda">Beranda</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+</resources>
