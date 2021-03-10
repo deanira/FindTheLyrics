@@ -2,10 +2,10 @@
 A simple android app using recycler view
 
 # Splash Screen
-![splashscreen](../master/documentation/splashscreen.jpg?raw=true)
+![splashscreen](https://imgur.com/ni5UwrH)
 
 # Home Screen
-![home](../master/documentation/home.jpg?raw=true)
+![home](https://imgur.com/FaWUvxI)
 
 # Detail Screen
-![detail](../master/documentation/detail.jpg?raw=true)
+![detail](https://imgur.com/undefined)
